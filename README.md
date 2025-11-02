@@ -42,19 +42,6 @@ const rishi: Developer = {
   title: "Software Development Engineer",
   education: "B.Tech CSE (Data Analytics) | GLA University '25",
   
-  philosophy: {
-    core: "Exceptional code isn't measured by elegant syntax alone",
-    belief: "It's measured by the impact it creates for users and businesses",
-    approach: ["Precision", "Scalability", "Reliability", "Continuous Learning"]
-  },
-  
-  currentFocus: [
-    "Building resilient, performant systems",
-    "Cloud-native architecture patterns",
-    "Performance optimization at scale",
-    "Contributing to meaningful products"
-  ],
-  
   availability: "Open to SDE opportunities" ✅
 };
 ```
@@ -63,84 +50,6 @@ const rishi: Developer = {
 
 <div align="center">
 
-### 🎯 **Engineering Philosophy**
-
-*"I build software that solves real problems—and I'm just getting started."*
-
-As a Software Development Engineer with a passion for creating **resilient**, **performant**, and **maintainable** systems, I believe great software is built to last. My approach centers on understanding user needs deeply and translating them into elegant technical solutions.
-
-</div>
-
-<br><br>
-
-<!-- Experience Section -->
-<div align="center">
-
-## 🚀 **PROFESSIONAL IMPACT**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### **🏢 Thales DIS**
-**`Software Development Engineer`**
-
-<br>
-
-**Mission-Critical Authentication Infrastructure**
-
-Engineered an automated validation framework for custom PAM (Pluggable Authentication Module) systems:
-
-<br>
-
-- ⚡ **60% reduction** in manual testing cycles
-- 🚀 **Accelerated deployment** for production systems
-- 🔒 **Enhanced security** validation processes
-- 🎯 **Standardized testing** across authentication team
-
-<br>
-
-> *"Transformed error-prone manual processes into a streamlined, automated pipeline that became the team standard."*
-
-</td>
-<td width="50%" valign="top">
-
-### **📊 Key Metrics**
-
-<br>
-
-```yaml
-Impact:
-  Testing Efficiency: "+60%"
-  Code Quality: "Enhanced"
-  Team Velocity: "Significantly Improved"
-  
-Recognition:
-  - "Adopted as team standard"
-  - "Mission-critical system trust"
-  - "Production-grade delivery"
-
-Skills Applied:
-  - Automation Engineering
-  - Security Protocols
-  - System Integration
-  - DevOps Practices
-```
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<!-- Tech Stack Section -->
-<div align="center">
 
 ## 🛠️ **TECHNOLOGY STACK**
 
@@ -314,39 +223,12 @@ Skills Applied:
 
 <br>
 
-```javascript
-class CareerGoals {
-  constructor() {
-    this.seeking = "SDE roles with innovative tech companies";
-    this.mission = "Building meaningful products that solve real problems";
-    this.approach = [
-      "Collaborate with exceptional engineers",
-      "Ship quality code that matters",
-      "Iterate fast, learn faster",
-      "Create measurable business impact"
-    ];
-    this.belief = "The best software doesn't just work—it transforms how people work";
-  }
-  
-  getCurrentStatus() {
-    return {
-      availability: "Actively seeking opportunities",
-      interests: ["Product Companies", "High-Growth Startups", "Tech Innovation"],
-      readiness: "Ready to contribute from day one"
-    };
-  }
-}
-
-const rishi = new CareerGoals();
-console.log(rishi.getCurrentStatus());
-// → { availability: "Actively seeking opportunities", ... }
-```
 
 <br>
 
 <div align="center">
 
-**Actively pursuing SDE opportunities** where I can contribute to products that matter, work alongside talented engineers, and continue evolving as a **software craftsman**.
+**Actively seeking SDE opportunities** where I can contribute to products that matter, work alongside talented engineers, and continue evolving as a **software craftsman**.
 
 </div>
 
@@ -357,28 +239,13 @@ console.log(rishi.getCurrentStatus());
 
 ## 📬 **LET'S CONNECT**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200">
 
 </div>
 
 <br>
 
 <div align="center">
-
-```python
-def connect():
-    contact_info = {
-        "email": "connect.rishirai@gmail.com",
-        "linkedin": "linkedin.com/in/rishii13",
-        "location": "India",
-        "timezone": "IST (UTC+5:30)",
-        "response_time": "Within 24 hours",
-        "open_to": ["Full-time SDE roles", "Collaboration", "Tech discussions"]
-    }
-    return "Let's build something exceptional together! 🚀"
-
-print(connect())
-```
 
 <br><br>
 
@@ -399,17 +266,10 @@ print(connect())
 
 </div>
 
-<br><br>
+<br>
 
 <!-- Footer -->
 <div align="center">
-
----
-
-<br>
-
-### 🌟 **"Exceptional engineering is measured by the impact it creates"** 🌟
-
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishirai&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
