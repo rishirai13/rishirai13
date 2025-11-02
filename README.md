@@ -88,7 +88,7 @@ As a Software Development Engineer with a passion for creating **resilient**, **
 <tr>
 <td width="50%" valign="top">
 
-### **🏢 Thales**
+### **🏢 Thales DIS**
 **`Software Development Engineer`**
 
 <br>
