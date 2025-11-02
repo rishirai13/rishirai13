@@ -262,32 +262,6 @@ Skills Applied:
 <!-- GitHub Stats -->
 <div align="center">
 
-## 📊 **GITHUB ANALYTICS**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
-
-<br><br>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishirai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
-</p>
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishirai&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-<br>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishirai&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=3B82F6&area=true&hide_border=true)
-
-</div>
-
-<br><br>
-
-<!-- Engineering Principles -->
-<div align="center">
-
 ## 💎 **ENGINEERING PRINCIPLES**
 
 </div>
