@@ -30,7 +30,7 @@
 <!-- About Section with Premium Design -->
 <div align="center">
 
-## 💫 **ABOUT ME**
+## 😎**ABOUT ME**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -170,47 +170,6 @@ const rishi: Developer = {
 
 <!-- GitHub Stats -->
 <div align="center">
-
-## 💎 **ENGINEERING PRINCIPLES**
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/🎯-Precision-blue?style=for-the-badge" />
-<br><br>
-<sub><i>Every line of code serves a purpose.<br>Write with intention, refactor with care.</i></sub>
-<br><br>
-</td>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/📈-Scalability-success?style=for-the-badge" />
-<br><br>
-<sub><i>Built for growth from day one.<br>Systems that handle today and tomorrow.</i></sub>
-<br><br>
-</td>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/🛡️-Reliability-orange?style=for-the-badge" />
-<br><br>
-<sub><i>Systems users can trust.<br>Because downtime isn't an option.</i></sub>
-<br><br>
-</td>
-<td width="25%" align="center">
-<br>
-<img src="https://img.shields.io/badge/🧠-Learning-purple?style=for-the-badge" />
-<br><br>
-<sub><i>Continuous improvement mindset.<br>Yesterday's best is today's baseline.</i></sub>
-<br><br>
-</td>
-</tr>
-</table>
-
-<br><br>
 
 <!-- Career Vision -->
 <div align="center">
