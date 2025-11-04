@@ -53,7 +53,7 @@ const rishi: Developer = {
 
 ## 🛠️ **TECHNOLOGY STACK**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="350">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
 </div>
 
@@ -133,7 +133,7 @@ const rishi: Developer = {
 
 <br>
 
-<table width="100%">
+<table width="80%">
 <tr>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
@@ -176,7 +176,7 @@ const rishi: Developer = {
 
 ## 🎯 **CAREER VISION**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
 
 </div>
 
@@ -198,7 +198,7 @@ const rishi: Developer = {
 
 ## 📬 **LET'S CONNECT**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">
 
 </div>
 
