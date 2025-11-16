@@ -1,246 +1,193 @@
 <div align="center">
 
-<!-- Hero Section with Animated Typography -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RISHI%20RAI&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Cloud%20Native%20Developer&descSize=16&descAlignY=51&descAlign=50"/>
+<!-- Hero Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=180&section=header&text=RISHI%20RAI&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<br>
+<br/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Production-Grade+Systems;Ex-Thales+%7C+B.Tech+CSE+'25;Scaling+Software%2C+Solving+Problems;Open+to+SDE+Opportunities" alt="Typing SVG" /></a>
+<!-- Tagline -->
+<h3>Software Engineer • System Architect • Cloud Native Developer</h3>
 
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/Ex--Thales-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Tech_CSE_'25-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-F59E0B?style=flat-square" />
+</p>
 
-<!-- Premium Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishii13/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.rishirai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+<br/>
 
-<br>
-
-<!-- Stats Cards -->
-<img src="https://img.shields.io/badge/Focus-System_Design-blue?style=for-the-badge&logo=&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Available_for_SDE_Roles-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishii13/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:connect.rishirai@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </div>
 
-<br><br>
+<br/><br/>
 
-<!-- About Section with Premium Design -->
+---
+
+<br/>
+
 <div align="center">
 
-## 😎**ABOUT ME**
+## 💭 About
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+*Building scalable systems that solve real problems*
 
 </div>
 
+<br/>
+
 ```typescript
-const rishi: Developer = {
+const engineer = {
   name: "Rishi Rai",
-  title: "Software Development Engineer",
-  education: "B.Tech CSE (Data Analytics) | GLA University '25",
-  
-  availability: "Open to SDE opportunities" ✅
+  role: "Software Development Engineer",
+  focus: ["System Architecture", "Cloud Infrastructure", "Performance Engineering"],
+  stack: ["Java", "Python", "TypeScript", "React", "Spring Boot", "AWS"],
+  passion: "Crafting production-grade software with elegance and precision",
+  status: "Actively seeking SDE roles"
 };
 ```
 
-<br>
+<br/><br/>
+
+---
+
+<br/>
 
 <div align="center">
 
-
-## 🛠️ **TECHNOLOGY STACK**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+## 🎯 Expertise
 
 </div>
 
-<br>
+<br/>
 
-### **💻 Languages & Frameworks**
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</div>
-
-<br>
-
-### **☁️ Cloud & DevOps**
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-</div>
-
-<br>
-
-### **🗄️ Databases & Tools**
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br>
-
-### **🎨 Design & Architecture**
-
-<div align="center">
-
-![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=&logoColor=white)
-
-</div>
-
-<br><br>
-
-<!-- Core Competencies -->
-<div align="center">
-
-## 🎯 **CORE COMPETENCIES**
-
-</div>
-
-<br>
-
-<table width="80%">
+<table align="center">
 <tr>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
-<br><br>
-<b>Data Structures & Algorithms</b>
-<br><br>
-<sub>Optimizing solutions for performance and scalability</sub>
+<td align="center" width="33%">
+<br/>
+<h2>⚡</h2>
+<h4>System Design</h4>
+<p><sub>Architecting scalable<br/>distributed systems</sub></p>
+<br/>
 </td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="50"/>
-<br><br>
-<b>System Design</b>
-<br><br>
-<sub>Architecting resilient, distributed systems</sub>
+<td align="center" width="33%">
+<br/>
+<h2>☁️</h2>
+<h4>Cloud Architecture</h4>
+<p><sub>Building resilient<br/>cloud-native solutions</sub></p>
+<br/>
 </td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
-<br><br>
-<b>Performance Optimization</b>
-<br><br>
-<sub>Building systems that scale efficiently</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="50"/>
-<br><br>
-<b>Security Best Practices</b>
-<br><br>
-<sub>Implementing secure, production-grade code</sub>
+<td align="center" width="33%">
+<br/>
+<h2>🚀</h2>
+<h4>Performance Engineering</h4>
+<p><sub>Optimizing for scale<br/>and efficiency</sub></p>
+<br/>
 </td>
 </tr>
 </table>
 
-<br><br>
+<br/><br/>
 
-<!-- GitHub Stats -->
+---
+
+<br/>
+
 <div align="center">
 
-<!-- Career Vision -->
-<div align="center">
-
-## 🎯 **CAREER VISION**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+## 🛠️ Technology Stack
 
 </div>
 
-<br>
-
-
-<br>
+<br/>
 
 <div align="center">
 
-**Actively seeking SDE opportunities** where I can contribute to products that matter, work alongside talented engineers, and continue evolving as a **software craftsman**.
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
-<br><br>
+<br/><br/>
 
-<!-- Contact Section -->
+---
+
+<br/>
+
 <div align="center">
 
-## 📬 **LET'S CONNECT**
+## 💼 What I'm Seeking
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">
+<br/>
+
+**Software Development Engineer roles** where I can architect scalable systems,  
+collaborate with talented engineers, and build products that matter.
+
+<br/>
+
+*Focus Areas*  
+System Design • Cloud Infrastructure • Microservices • Performance Optimization
 
 </div>
 
-<br>
+<br/><br/>
+
+---
+
+<br/>
 
 <div align="center">
 
-<br><br>
+## 📬 Let's Connect
 
-<!-- Social Links with Custom Styling -->
+<br/>
+
 <a href="https://www.linkedin.com/in/rishii13/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:connect.rishirai@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-View_my_work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<br><br>
+<br/><br/>
 
-**💡 Open to opportunities • 🤝 Available for collaboration • ⚡ Quick to respond**
+![Profile Views](https://komarev.com/ghpvc/?username=rishirai13&color=6366f1&style=flat-square)
 
-</div>
+<br/><br/>
 
-<br>
+*Engineered for impact • Built with precision*
 
-<!-- Footer -->
-<div align="center">
-<br>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishirai&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-![Last Updated](https://img.shields.io/badge/Last_Updated-November_2025-3B82F6?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge)
-
-<br>
-
-<sub>Crafted with precision and passion • Optimized for impact • Built to impress</sub>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=100&section=footer"/>
 
 </div>
