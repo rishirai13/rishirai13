@@ -1,193 +1,108 @@
 <div align="center">
 
-<!-- Hero Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=180&section=header&text=RISHI%20RAI&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<br/>
+<br/>
+
+# RISHI RAI
+
+### Software Development Engineer
+
+*Architecting intelligent systems at the intersection of software engineering, AI, and data science*
 
 <br/>
 
-<!-- Tagline -->
-<h3>Software Engineer • System Architect • Cloud Native Developer</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Ex--Thales-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/B.Tech_CSE_'25-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-F59E0B?style=flat-square" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishii13/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.rishirai@gmail.com)
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishii13/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:connect.rishirai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+<br/>
 
 </div>
-
-<br/><br/>
 
 ---
 
 <br/>
 
+## About
+
+Experienced software engineer specializing in scalable distributed systems and cloud architecture. Currently exploring AI/ML integration and data-driven solutions for enterprise applications.
+
+**Ex-Thales** • **B.Tech CSE '25** • **India** → **Global Markets**
+
+<br/>
+
+## Technical Stack
+
 <div align="center">
 
-## 💭 About
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-*Building scalable systems that solve real problems*
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
 <br/>
 
-```typescript
-const engineer = {
-  name: "Rishi Rai",
-  role: "Software Development Engineer",
-  focus: ["System Architecture", "Cloud Infrastructure", "Performance Engineering"],
-  stack: ["Java", "Python", "TypeScript", "React", "Spring Boot", "AWS"],
-  passion: "Crafting production-grade software with elegance and precision",
-  status: "Actively seeking SDE roles"
-};
+## Current Focus
+
+```python
+focus_areas = {
+    "ai_ml": ["Large Language Models", "Computer Vision", "NLP"],
+    "data_science": ["Predictive Analytics", "Deep Learning", "MLOps"],
+    "engineering": ["Distributed Systems", "Cloud Architecture", "API Design"],
+    "exploration": ["AI-Powered Applications", "Real-time Data Pipelines"]
+}
 ```
 
-<br/><br/>
+<br/>
+
+## Capabilities
+
+**System Design** — Architecting scalable microservices and distributed systems  
+**Cloud Engineering** — Building resilient infrastructure on AWS and Azure  
+**AI/ML Integration** — Deploying production-grade ML models and pipelines  
+**Performance Optimization** — Engineering solutions that scale efficiently  
+**Data Engineering** — Processing and analyzing large-scale datasets
+
+<br/>
+
+## Open To
+
+Senior SDE roles • AI/ML Engineering positions • Cloud architecture challenges • Data-intensive applications
+
+<br/>
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 🎯 Expertise
+<br/>
 
-</div>
+**Let's build something exceptional.**
+
+[connect.rishirai@gmail.com](mailto:connect.rishirai@gmail.com) • [LinkedIn](https://www.linkedin.com/in/rishii13/)
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<br/>
-<h2>⚡</h2>
-<h4>System Design</h4>
-<p><sub>Architecting scalable<br/>distributed systems</sub></p>
-<br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<h2>☁️</h2>
-<h4>Cloud Architecture</h4>
-<p><sub>Building resilient<br/>cloud-native solutions</sub></p>
-<br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<h2>🚀</h2>
-<h4>Performance Engineering</h4>
-<p><sub>Optimizing for scale<br/>and efficiency</sub></p>
-<br/>
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
----
+*Engineering excellence through innovation and precision*
 
 <br/>
-
-<div align="center">
-
-## 🛠️ Technology Stack
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</div>
-
-<br/><br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 💼 What I'm Seeking
-
-<br/>
-
-**Software Development Engineer roles** where I can architect scalable systems,  
-collaborate with talented engineers, and build products that matter.
-
-<br/>
-
-*Focus Areas*  
-System Design • Cloud Infrastructure • Microservices • Performance Optimization
-
-</div>
-
-<br/><br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📬 Let's Connect
-
-<br/>
-
-<a href="https://www.linkedin.com/in/rishii13/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:connect.rishirai@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rishirai13&color=6366f1&style=flat-square)
-
-<br/><br/>
-
-*Engineered for impact • Built with precision*
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=100&section=footer"/>
 
 </div>
