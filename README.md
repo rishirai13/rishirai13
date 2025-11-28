@@ -2,7 +2,7 @@
 
 <br/>
 
-# ##RISHI RAI
+# RISHI RAI
 
 ### Software Development Engineer
 
