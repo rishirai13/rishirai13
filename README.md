@@ -91,7 +91,7 @@ const expertise = {
 
 ## 🌟 Open To
 
-`SWE Roles` `•` `AI/ML Engineering` `•` `Cloud Architecture` `•` `Data-Intensive Systems`
+`SDE Roles` `•` `AI/ML Engineering` `•` `Cloud Architecture` `•` `Data-Intensive Systems`
 
 <br/>
 
