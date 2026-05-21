@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=3" width="100%"/>
+
 
 <br/>
 
@@ -46,4 +46,3 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:112240,100:0a192f&height=3" width="100%"/>
