@@ -4,9 +4,7 @@
 
 <br/>
 
-## 🧑🏻‍💻 MTech AI & Data Science &nbsp;`'27`
-
-**IIT Patna** &nbsp;·&nbsp;*Systems · Intelligence · Scale*
+## 🧑🏻‍💻 
 
 <br/>
 
