@@ -25,7 +25,7 @@
 2021 – 2025   BTech CSE · Data Analytics
 2023          Thales    · SDE Intern  [Banking & Payments]
 2023 – now    Freelance · Full-Stack
-2026          Wipro     · Infra Security
+2026          Wipro     · Cyber Security Analyst
 2025 – 2027   IIT Patna · MTech AI & DSE         ← current
 ```
 
